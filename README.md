@@ -26,4 +26,4 @@ Read - Users of this app will be able to retrieve information on their plants' l
 Update - The database will be updated with information on the patrons, information about common plants, and information on the plants that the 'patron' is currently cultivating. 
 
 
-Delete - I deleted some of the initial attributes in my table and some code in order to tidy the code in the python file. I deleted the 'Nursery' concept of the project as I felt I would not be able to complete it in time; a possible improvement to be made. 
+Delete - I deleted some of the initial attributes in my table and some code in order to tidy the code in the python file. I deleted the 'Nursery' concept of the project as I felt I would not be able to complete it in time; a possible improvement to be made. I would also like to use lists for the web app forms the same way that I used the dictionary attributes. I find that it neatens the code and makes it easier to read and replicate. 
