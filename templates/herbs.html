@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title><Form>Plant Informer</Form></title>
+    </head>
+    <body>
+        <div class='form'>
+            <form method='POST' action=''>
+                {{ form.hidden_tag() }}
+                {{ form.full_name.label }} {{ form.full_name }}
+                <br>
+                {{ form.herbs_of_interest.label }} {{ form.herbs_of_interest }}
+                <br>
+                {{ form.herb_info.label }} {{ form.herb_info }}
+                <br>
+                {{ form.submit }}
+            {{ message }}
+            </form>
+        </div>
+    </body>
+</html>
