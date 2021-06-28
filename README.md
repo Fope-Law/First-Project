@@ -1,6 +1,8 @@
 # First-Project
 First project with QA
 
+https://trello.com/b/0S77JGEO/project-1 
+
 
 This project consists of information about common herbs and their cultivation. The user selects from choices in order that the web app will provide information depending on the combination. There are currently five herbs to get information from, and the user can select from 'sowing herbs', 'harvesting herbs', and the 'lifespan' of those herbs. The page will then return the requested information once the request has been submitted. 
 
